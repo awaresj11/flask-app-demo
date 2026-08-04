@@ -1,4 +1,4 @@
-#this flask-app dockerfile to create image
+#this flask-app dockerfile 
 #Base image
 FROM python:3.11
 
