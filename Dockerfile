@@ -1,6 +1,6 @@
 #this flask-app dockerfile to create app image
 #Base image
-FROM python:3.11
+FROM python:3.11-slim
 
 WORKDIR /app
 
